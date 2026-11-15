@@ -1,4 +1,12 @@
 # Capstone
+https://github.com/JManuelAG/Capstone/tree/main
+
+
+NOTE: To be able to use this repository with current data, you will need to copy the datasets from project repositoy:  
+Project_Folder\1_Documentation\1.1_DataSet  
+Copy the folder inside the "Capstone" folder and rename "Data" 
+
+
 # Twitter Bot Detection 
 
 Welcome to the TwiTwitter Bot Detection! This project provides a comprehensive framework for data import, preprocessing, modelling, and evaluation using Python. It includes various modules for the machine learning pipeline stages, such as importing data, cleaning, splitting, modelling, and evaluating machine learning models.
